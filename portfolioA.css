@@ -11,7 +11,7 @@ nav {
     width: 100vw;
     z-index: 100;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     background: #222;
     padding: 16px;
